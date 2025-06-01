@@ -1,5 +1,3 @@
-# Python Starter
+This is a Python program for estimating Lyapuriov exponent and dimension of the fractal formed by strange attractor, particulaly for Hénon Map.
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
-
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.devcontainer/Dockerfile).
+The explanary note is written in Chinese, for that this program is created for the final essay of course "Chaos and Fractals in Science", PKU.
